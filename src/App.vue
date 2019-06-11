@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    
     <nav class="navbar navbar-expand-lg navbar-light bg-light fixed-top">
       <div class="container-fluid">
         <a class="navbar-brand" href="#">BNK48</a>
