@@ -20,7 +20,7 @@ Vue.component('button-counter', {
       count: 0
     }
   },
-  template: '<button v-on:click="count++">รักเนยไหม {{ count }} times.</button>'
+  template: '<button v-on:click="count+=100">รักเนยกี่เปอร์เซน {{ count }} % </button>'
 })
 
 new Vue({ el: '#components-demo' })
